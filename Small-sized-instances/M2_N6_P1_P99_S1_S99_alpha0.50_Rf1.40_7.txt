@@ -1,0 +1,33 @@
+budget
+3359
+per_unit_time_cost_of_each_machine
+14 4 
+job_processing_time_on_each_machine
+20 84 
+66 4 
+57 27 
+95 86 
+87 10 
+84 37 
+per_unit_time_realse_of_each_job
+181
+157
+158
+129
+78
+17
+per_unit_setup_time__of_each_machine
+93 55 35 74 36 22 
+91 51 68 55 38 40 
+86 9 54 60 30 23 
+83 22 98 68 60 36 
+55 25 5 31 5 18 
+39 70 13 71 82 71 
+
+41 84 61 62 55 80 
+76 56 7 64 93 74 
+27 15 84 15 41 54 
+76 81 28 20 49 81 
+54 83 44 3 99 43 
+97 75 88 25 90 31 
+

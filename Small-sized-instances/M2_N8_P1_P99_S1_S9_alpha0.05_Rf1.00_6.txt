@@ -1,0 +1,41 @@
+budget
+1472
+per_unit_time_cost_of_each_machine
+5 15 
+job_processing_time_on_each_machine
+8 13 
+20 65 
+3 12 
+50 3 
+72 28 
+90 93 
+30 91 
+26 9 
+per_unit_time_realse_of_each_job
+42
+57
+53
+78
+118
+118
+82
+121
+per_unit_setup_time__of_each_machine
+6 9 6 8 3 2 6 6 
+3 4 5 6 2 5 4 9 
+1 1 2 7 8 8 6 2 
+6 8 4 1 8 4 5 1 
+3 9 7 2 1 7 4 6 
+2 5 2 4 8 5 3 9 
+4 9 3 1 2 3 4 2 
+4 3 3 8 9 1 6 2 
+
+5 4 8 6 2 8 5 6 
+7 2 9 7 8 2 6 1 
+4 9 9 2 7 5 2 3 
+9 4 2 3 3 2 5 9 
+1 6 3 3 7 5 7 8 
+1 6 9 1 3 4 5 6 
+5 5 1 7 7 5 2 3 
+4 7 8 8 1 8 9 9 
+
